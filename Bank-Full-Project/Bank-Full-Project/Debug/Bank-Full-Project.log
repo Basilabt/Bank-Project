@@ -1,0 +1,8 @@
+﻿  Bank-Full-Project.cpp
+C:\Users\User\source\repos\Bank-Full-Project\Bank-Full-Project\Bank-Full-Project.cpp(366,44): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\source\repos\Bank-Full-Project\Bank-Full-Project\Bank-Full-Project.cpp(455,38): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\source\repos\Bank-Full-Project\Bank-Full-Project\Bank-Full-Project.cpp(807,10): warning C4804: '>=': unsafe use of type 'bool' in operation
+C:\Users\User\source\repos\Bank-Full-Project\Bank-Full-Project\Bank-Full-Project.cpp(807,26): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\User\source\repos\Bank-Full-Project\Bank-Full-Project\Bank-Full-Project.cpp(932,47): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\source\repos\Bank-Full-Project\Bank-Full-Project\Bank-Full-Project.cpp(1062,41): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  Bank-Full-Project.vcxproj -> C:\Users\User\source\repos\Bank-Full-Project\Debug\Bank-Full-Project.exe
